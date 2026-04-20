@@ -2,7 +2,7 @@
   <img src="images/header.png" alt="Radosław Smoroński - .NET & React Developer Banner" width="100%">
 </p>
 
-3rd-year CS student at WSEI Kraków, focused on backend development within the .NET ecosystem. For the past 2.5 years, I've been building applications with a focus on Clean Architecture, testability, and modern C# features.
+Software Engineer and 3rd-year Computer Science student focused on solving technical and business problems, not just writing code. I specialize in the .NET ecosystem, building scalable, testable backend systems with Clean Architecture, CQRS, and proven design patterns. I also develop modern React interfaces aligned with UX principles to deliver end-to-end, user-centric products. In my daily workflow, I actively use AI tools (Cursor, LLMs) to speed up delivery, optimize solutions, and maintain high code quality.
 
 ### 🛠 Tech & Tools
 * **Backend:** C# 14, .NET 10, ASP.NET Core, SignalR, EF Core

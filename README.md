@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="images/header.png" alt="Radosław Smoroński - .NET & React Developer Banner" width="100%">
-</p>
 
-Software Engineer and 3rd-year Computer Science student focused on solving technical and business problems, not just writing code. I specialize in the .NET ecosystem, building scalable, testable backend systems with Clean Architecture, CQRS, and proven design patterns. I also develop modern React interfaces aligned with UX principles to deliver end-to-end, user-centric products. In my daily workflow, I actively use AI tools (Cursor, LLMs) to speed up delivery, optimize solutions, and maintain high code quality.
+Intern Software Developer at Motorola Solutions and 3rd-year Computer Science student. I specialize in the .NET ecosystem, building scalable, testable backend systems with Clean Architecture, CQRS, and proven design patterns. I also develop modern React interfaces aligned with UX principles to deliver end-to-end, user-centric products. In my daily workflow, I actively use AI tools (Cursor, Copilot, LLMs) to speed up delivery, optimize solutions, and maintain high code quality.
 
 ### 🛠 Tech & Tools
-* **Backend:** C# 14, .NET 10, ASP.NET Core, SignalR, EF Core
+* **Backend:** C#, .NET, ASP.NET Core, SignalR, EF Core
 * **Architecture:** Clean Architecture, CQRS (MediatR), REST APIs
 * **Testing:** xUnit, FluentAssertions, FakeItEasy
 * **Frontend:** React, TypeScript, Vue.js, Bootstrap
